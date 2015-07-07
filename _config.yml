@@ -3,6 +3,7 @@ exclude:
   - CONTRIBUTING.md
 highlighter: pygments
 permalink: none
+baseurl: /buenosaires
 defaults:
   -
     scope:
